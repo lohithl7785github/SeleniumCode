@@ -20,7 +20,7 @@ public class Logic {
   }
   public static void main(String[] args) {
 	  Logic logi = new Logic();
-	  int res= logi.doTask(6543);
+	  
 	  logi.printOdd();
 	  
 	 // System.out.println("Result :"+res);
